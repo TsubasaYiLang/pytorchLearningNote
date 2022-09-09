@@ -1,1 +1,3 @@
 # pytorchLearningNote
+
+跟着B站刘二大人的pytorch教程学习pytorch代码和深度学习基础。
